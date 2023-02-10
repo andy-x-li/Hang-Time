@@ -23,7 +23,9 @@ Note: "bits board" and "matrix board" have no visual difference, but is used to 
 
 Below is an example of the game with parameters "./play -w 15 -h 15 -t 1 -r 3 -b" (15x15 board, hang time of 1, win condition of 3): 
 
-https://user-images.githubusercontent.com/125074849/218190398-c62a784b-7c96-4d86-81b5-8aef99beb7c6.mov
+https://user-images.githubusercontent.com/125074849/218190793-6f1b167c-e09d-490c-b472-a39de63b9472.mov
+
+
 
 
 
