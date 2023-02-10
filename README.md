@@ -1,6 +1,6 @@
 # Hang-Time
 
-A game I programmed for a CS class called Hang Time. 
+A game I programmed called Hang Time for a CS class at UChicago.
 
 The goal was the recreate a game our professor tasked us individually with. 
 
@@ -25,7 +25,6 @@ Below is an example of the game with parameters "./play -w 15 -h 15 -t 1 -r 3 -b
 
 https://user-images.githubusercontent.com/125074849/218190793-6f1b167c-e09d-490c-b472-a39de63b9472.mov
 
-
-
+Note: proj1 is an early version of the code used as a checkpoint for development during class. 
 
 
