@@ -19,7 +19,7 @@ To run the code:
   - The number after the -r flag is the number of pieces in a row needed to win. 
   - Flag -b represents the "bits board" (it can be replaced with flag -m to represent a "matrix board")
   
-Note: "bits board" and "matrix board" have no visual difference, but is used to demonstrate our understanding of matrices and bit manipulation. In other words, the board data is stored in different ways depending on which flag is specified. 
+Note: "bits board" and "matrix board" have no visual differences but are instead used to demonstrate our understanding of matrices and bit manipulation. In other words, board data is stored in different ways depending on which flag is specified. 
 
 Below is an example of the game with parameters "./play -w 15 -h 15 -t 1 -r 3 -b" (15x15 board, hang time of 1, win condition of 3): 
 
