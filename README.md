@@ -1,6 +1,6 @@
 # Hang-Time
 
-A game I programmed called Hang Time for a CS class at UChicago.
+A game I programmed called Hang Time as part of a project for a CS class at UChicago.
 
 The goal was the recreate a game our professor tasked us individually with. 
 
