@@ -12,11 +12,11 @@ To run the code: <br>
   **3)** Execute the makefile by typing `make` in the command line <br>
   **4)** Start the game by typing something such as `./play -w 10 -h 10 -t 2 -r 3 -b` in the command line
 
-`./play -w 10 -h 10 -t 2 -r 3 -b` has multiple flags in it. 
+`./play -w 10 -h 10 -t 2 -r 3 -b` has multiple flags in it. <br>
 > The number after the -w flag is the width of the board. <br>
-> The number after the -h flag is the height of the board.
-> The number after the -t flag is the hang time of the game.
-> The number after the -r flag is the number of pieces in a row needed to win.
+> The number after the -h flag is the height of the board. <br>
+> The number after the -t flag is the hang time of the game. <br>
+> The number after the -r flag is the number of pieces in a row needed to win. <br>
 > Flag -b represents the "bits board" (it can be replaced with flag -m to represent a "matrix board")
   
 **Note**: *"bits board" and "matrix board" have no visual differences but are instead used to demonstrate our understanding of matrices and bit manipulation. In other words, board data is stored in different ways depending on which flag is specified.*
